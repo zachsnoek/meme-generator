@@ -4,7 +4,7 @@ A meme generator built with JavaScript and Fabric.js.
 
 [Demo](https://practical-aryabhata-01d1d0.netlify.app/)
 
-[Blog post](https://blog.zachsnoek.com/build-a-meme-generator-with-javascript-and-fabricjs)
+[Blog post](https://www.zachsnoek.com/blog/how-to-build-a-meme-generator-with-javascript-and-fabricjs)
 
 ## Template images
 
