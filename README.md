@@ -4,7 +4,13 @@ A meme generator built with JavaScript and Fabric.js.
 
 [Demo](https://practical-aryabhata-01d1d0.netlify.app/)
 
-[Blog post](https://www.zachsnoek.com/blog/how-to-build-a-meme-generator-with-javascript-and-fabricjs)
+---
+
+This is the project code for my [tutorial](https://www.zachsnoek.com/blog/how-to-build-a-meme-generator-with-javascript-and-fabricjs).
+
+If you found my post helpful, please consider supporting my work financially:
+
+<a href="https://www.buymeacoffee.com/zachsnoek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Template images
 
